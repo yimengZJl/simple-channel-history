@@ -22,6 +22,9 @@ An Open Integration Engine plugin for tracking version history of Channels and C
 
 <img src="https://raw.githubusercontent.com/wiki/pacmano1/simple-channel-history/images/5.jpg" alt="Decomposed component diff view with tree navigation and side-by-side comparison" width="700">
 
+<img width="1109" height="691" alt="image" src="https://github.com/user-attachments/assets/65577e17-7929-4a13-bded-a1248e97ed3c" />
+
+
 ## Supported Databases
 
 - PostgreSQL
