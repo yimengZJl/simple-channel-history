@@ -1,6 +1,6 @@
 # Simple Channel and Code Template History
 
-[![GitHub release](https://img.shields.io/github/v/release/pacmano1/simple-channel-history)](https://github.com/pacmano1/simple-channel-history/releases/latest)
+[![GitHub release](https://img.shields.io/github/v/release/diridium-com/simple-channel-history)](https://github.com/diridium-com/simple-channel-history/releases/latest)
 [![License: MPL-2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 [![Java 17+](https://img.shields.io/badge/Java-17%2B-blue)](https://openjdk.org/projects/jdk/17/)
 [![OIE 4.5.2+](https://img.shields.io/badge/OIE-4.5.2%2B-blue)](https://github.com/kayyagari/connect)
@@ -18,9 +18,9 @@ An Open Integration Engine plugin for tracking version history of Channels and C
 - Deleted items tracking — automatically saves a final XML snapshot when channels or code templates are deleted
 - Database-backed storage (history travels with database backups)
 
-<img src="https://raw.githubusercontent.com/wiki/pacmano1/simple-channel-history/images/4.jpg" alt="History dialog showing revision table" width="500">
+<img src="https://raw.githubusercontent.com/wiki/diridium-com/simple-channel-history/images/4.jpg" alt="History dialog showing revision table" width="500">
 
-<img src="https://raw.githubusercontent.com/wiki/pacmano1/simple-channel-history/images/5.jpg" alt="Decomposed component diff view with tree navigation and side-by-side comparison" width="700">
+<img src="https://raw.githubusercontent.com/wiki/diridium-com/simple-channel-history/images/5.jpg" alt="Decomposed component diff view with tree navigation and side-by-side comparison" width="700">
 
 <img width="500" height="691" alt="image" src="https://github.com/user-attachments/assets/65577e17-7929-4a13-bded-a1248e97ed3c" />
 
